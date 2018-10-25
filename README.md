@@ -1,6 +1,8 @@
 # WHUT Bachelor Thesis
 =================================================================
+
 revised by Zheyu YE 25 Oct. 2018
+
 ## Introduction
 
 This template is for undergraduate thesis at [Wuhan University of Techology](http://english.whut.edu.cn). 
