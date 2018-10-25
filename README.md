@@ -1,5 +1,6 @@
-# WHUT Bachelor Thesis v 0.1b
-
+# WHUT Bachelor Thesis
+revised by Zheyu YE
+25 Oct. 2018
 =================================================================
 ## Introduction
 
@@ -18,7 +19,7 @@ All questions and suggestions are welcomed, please file an issue in this repo.
 ## 使用方法
 
 * 使用TeX编辑器打开`thesis.tex`，并将编译方式设定为`XeLaTeX`
-
 * 设定主文档为`thesis.tex`，尝试进行编译
+* 需要在本地下载STZhongsong, SimSun, SimHei等字体
 
 
